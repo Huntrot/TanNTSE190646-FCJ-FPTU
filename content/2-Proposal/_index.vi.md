@@ -1,7 +1,9 @@
 ---
 title: "Đề xuất Strangers"
 date: 2024-01-01T00:00:00Z
-draft: false
+weight: 2
+chapter: false
+pre: " <b> 2. </b> "
 ---
 
 <style>
