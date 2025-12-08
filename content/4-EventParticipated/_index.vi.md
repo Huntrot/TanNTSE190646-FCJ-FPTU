@@ -87,9 +87,10 @@ Trong quá trình thực tập, em đã tham gia 7 events, với mỗi event là
 ---
 
 ### [Event 8](4.8-Event8/)
-&emsp;**Tên sự kiện:** AWS Cloud Mastery Series #3
+&emsp;**Tên sự kiện:** BUILDING AGENTIC AI - Context Optimization with Amazon Bedrock
 
-&emsp;**Thời gian:** 8:30 AM ngày 29/11/2025
+
+&emsp;**Thời gian:** 9:30 AM ngày 05/12/2025
 
 &emsp;**Địa điểm:** Tầng 26, tòa nhà Bitexco, số 02 đường Hải Triều, phường Sài Gòn, thành phố Hồ Chí Minh
 
